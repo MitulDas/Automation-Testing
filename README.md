@@ -1,6 +1,11 @@
 # Automation-Testing
 
-<p>A practice automation test framework for Amazon.com, based on the knowledge gained as a first year automation engineer at Fitbit-Boston.</p>
-<p><b>Problems:</b> I wasn't able to set up tests to run in parallel. I didn't initially build that into DriverUtils, and haven't been able to figure this part out.</p>
-<b>Blog: Adventures in Automation</b>
-<i>A sample project in order to practice designing automated test frameworks.&nbsp;</i><br /
+## Overview
+A practice automation test framework for Amazon.com, based on the knowledge gained as a first-year automation engineer at Fitbit-Boston. This project is a sample project to practice designing automated test frameworks.
+
+## Problems
+One of the key challenges faced during the development of this framework was the inability to set up tests to run in parallel. This limitation stemmed from an initial design oversight in `DriverUtils`. Despite efforts, a solution for this issue hasn't been found yet.
+
+## Blog
+**Adventures in Automation**: This blog provides insights and reflections on the journey of building this framework. It includes lessons learned, challenges faced, and the process of evolving as an automation engineer.
+
